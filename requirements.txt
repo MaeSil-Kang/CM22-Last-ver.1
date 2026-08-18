@@ -1,0 +1,9 @@
+# 재현성 위해 버전 고정(로컬과 클라우드 동일 환경). Python 3.13 기준.
+streamlit==1.57.0
+numpy==2.4.4
+pandas==3.0.3
+openpyxl==3.1.5
+pymupdf==1.27.2.3
+pillow==12.2.0
+pytesseract==0.3.13
+google-genai==2.4.0
